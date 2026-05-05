@@ -1,3 +1,3 @@
-# pv080_buggy_code
+# PV080_buggy_code
 
-2026 test before seminar
+Readme from GitLab
